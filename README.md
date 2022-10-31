@@ -1,7 +1,18 @@
+Task 1:
+The user enters several words in the console separated by a space.
+The longest common beginning should be printed to the console, if it exists, and “–“ if it does not.
+Example:
+ input >> "abc abcd abe abk"
+ output >> ab
+ input >> "abc dfg tyu yui"
+ output >> -
+ 
+
 
 Task 2:
 Solve the following problem in C#. An arbitrary string is given, it is necessary to find the sum of all numbers in this string (namely, numbers, not numbers).
-It is preferable to use regular expressions. Example:
+It is preferable to use regular expressions. 
+Example:
  input >> "gf5k 35yt hf 2 fd12k "
  output >> 54
 
